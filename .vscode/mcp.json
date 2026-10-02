@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "my-first-server": {
+      "type": "stdio",
+      "command": "C:/Users/TriveniAdepu/my-first-mcp/venv/Scripts/python.exe",
+      "args": ["C:/Users/TriveniAdepu/my-first-mcp/server.py"]
+    }
+  }
+}
